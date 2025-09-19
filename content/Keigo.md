@@ -1,4 +1,4 @@
-Zie ook [[Verzoeken en advies#Gradaties van beleefdheid]] en [[Geven en krijgen]]
+Zie ook [[Verzoeken en advies#Gradaties van beleefdheid]] en [[Geven en krijgen]] 
 
 Keigo is een verzamelterm voor verschillende manieren van beleefd praten in het Japans.
 - Beleefdheid in Nederlands: drukt de houding van de spreker uit
