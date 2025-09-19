@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-15T17:05:36.422+02:00","modified":"2025-09-20T01:15:06.771+02:00","published":"2025-09-20T01:15:06.771+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T17:05:36.422+02:00","modified":"2025-09-20T01:16:19.270+02:00","published":"2025-09-20T01:16:19.270+02:00","cssclasses":""}
 ---
 
 ## 1 Introductie Theorie in de Criminologie
@@ -31,16 +31,13 @@ Macro theorieën verklaren verschillen tussen groepen, maatschappelijke klassen,
 
 ![[Jaar 3/317 Theoretische Criminologie/00 Resources/Pasted image 20250920011451.png]]
 
+![[Jaar 3/317 Theoretische Criminologie/00 Resources/CleanShot 2025-09-15 at 14.56.19@2x.png|De relatie tussen verklaringsniveaus is van belang omdat we vaak fouten zien die te maken hebben met die niveaus.]]
 
-![[Algemeen/000 Reference/Attachment library/CleanShot 2025-09-15 at 14.54.19@2x.png|Micro: verschillen tussen individuen. Macro: grotere schaal.]]
-
-![[Algemeen/000 Reference/Attachment library/CleanShot 2025-09-15 at 14.56.19@2x.png|De relatie tussen verklaringsniveaus is van belang omdat we vaak fouten zien die te maken hebben met die niveaus.]]
-
-![[Algemeen/000 Reference/Attachment library/CleanShot 2025-09-15 at 14.57.59@2x.png|Ecologische fout: wanneer we verbanden op macroniveau zonder enige toets/uitleg direct doortrekken op microniveau.]]
+![[Jaar 3/317 Theoretische Criminologie/00 Resources/CleanShot 2025-09-15 at 14.57.59@2x.png|Ecologische fout: wanneer we verbanden op macroniveau zonder enige toets/uitleg direct doortrekken op microniveau.]]
 
 >Voorbeeld van een ecologische fout: migratie. In wijken waar veel immigranten binnenkomen is vaak een hoger percentage van criminaliteit. Mag je daaruit de conclusie trekken dat de migranten de personen zijn die voor dat resultaat zorgen? Er kunnen allerlei andere verklaringen zijn. Bijv. migranten kiezen wijken uit waar criminaliteit al hoger is (bijv. als dat er veel is, dan valt het feit dat je illegaal bent minder op.) of de huizenprijzen zijn lager.
 
-![[Algemeen/000 Reference/Attachment library/CleanShot 2025-09-15 at 15.01.24@2x.png|Klassiek voorbeeld van een ecologische fout. Er is een migratieoverschot, en er is een stijging in de criminaliteit. Dit suggereert dat de migranten de problemen vormen. Dit is een problematische overgeneralisering.]]
+![[Jaar 3/317 Theoretische Criminologie/00 Resources/CleanShot 2025-09-15 at 15.01.24@2x.png|Klassiek voorbeeld van een ecologische fout. Er is een migratieoverschot, en er is een stijging in de criminaliteit. Dit suggereert dat de migranten de problemen vormen. Dit is een problematische overgeneralisering.]]
 
 #### 1.1.3 Causaliteit
 Dit is een belangrijk begrip in theorie-land. We zijn op zoek naar oorzaken van gedrag. Als je wil spreken van een oorzaak, dan moet X nodig zijn en voldoende om Y te doen plaatsvinden. Geen enkele criminologische verklaring voldoet aan beide eisen.
