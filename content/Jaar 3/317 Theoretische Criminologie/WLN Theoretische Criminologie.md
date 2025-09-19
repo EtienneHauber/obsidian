@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-15T17:05:36.422+02:00","modified":"2025-09-20T01:03:36.582+02:00","published":"2025-09-20T01:03:36.582+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T17:05:36.422+02:00","modified":"2025-09-20T01:15:06.771+02:00","published":"2025-09-20T01:15:06.771+02:00","cssclasses":""}
 ---
 
 ## 1 Introductie Theorie in de Criminologie
@@ -28,6 +28,9 @@ Wetenschappelijke theorieën zijn ==voorlopige== ==antwoorden op kennisvragen==,
 - **Macro**-theorieën (epidemiologie, sociale structuur): samenleving en groepspatronen in crimineel gedrag
 
 Macro theorieën verklaren verschillen tussen groepen, maatschappelijke klassen, buurten en samenlevingen met behulp van verschillen in hun sociale of culturele kenmerken.
+
+![[Jaar 3/317 Theoretische Criminologie/00 Resources/Pasted image 20250920011451.png]]
+
 
 ![[Algemeen/000 Reference/Attachment library/CleanShot 2025-09-15 at 14.54.19@2x.png|Micro: verschillen tussen individuen. Macro: grotere schaal.]]
 
