@@ -1,5 +1,6 @@
 ---
-{"publish":true,"title":"voorbeeldtitel","created":"2025-09-20T00:06:22.224+02:00","modified":"2025-09-20T00:12:40.132+02:00","cssclasses":""}
+title: Welcome to Quartz
 ---
 
-Dit is een test gr annie
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
