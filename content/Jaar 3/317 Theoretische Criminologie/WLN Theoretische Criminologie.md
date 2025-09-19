@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-15T17:05:36.422+02:00","modified":"2025-09-20T00:00:56.173+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T17:05:36.422+02:00","modified":"2025-09-20T01:03:36.582+02:00","published":"2025-09-20T01:03:36.582+02:00","cssclasses":""}
 ---
 
 ## 1 Introductie Theorie in de Criminologie
