@@ -1,5 +1,69 @@
 ---
-{"publish":true,"created":"2024-05-05T17:01:51.183+02:00","modified":"2025-09-20T11:36:28.279+02:00","published":"2025-09-20T11:36:28.279+02:00","cssclasses":""}
+{"publish":true,"created":"2024-05-20T17:09:46.409+02:00","modified":"2025-09-20T11:39:42.434+02:00","published":"2025-09-20T11:39:42.434+02:00","cssclasses":""}
+---
+
+### "Normaal" Geven en krijgen
+
+> [!NOTE] Constructie
+> **あげる・さしあげる** → geven (aan)
+> gever は・が **ontvanger に** object をあげる
+> 
+> **くれる・くださる** → iemand geeft aan mij/ons (uit je groep)
+> gever は・が (**ontvanger に**) object をくれる
+> 
+> **もらう・いただく** → krijgen (van)
+> ontvanger は・が **gever に**・から object をもらう
+> 
+
+> [!tip] Etienne tip
+> De partikels hoeven helemaal niet lastig te zijn. In het geval van あげる en くれる is de Nederlandse vertaling: "geven." Wie geeft? Die is het onderwerp (dus は・が). In het geval van もらう is de Nederlandse vertaling: "krijgen." Wie krijgt? Die is het onderwerp.
+
+
+Sen geeft (aan) Riku bloemen.
+センは、リク**に**花を**あげる**。
+
+Sen geeft me bloemen.
+センは、花を**くれる**。
+
+Riku krijgt bloemen van Sen.
+リクは、セン**に**花を**もらう**。
+
+> [!info] Belangrijk
+> Bij くれる wordt de ontvanger vaak weggelaten.
+
+#### Voorbeelden
+- Ze geeft (**aan Riku**) bloemen = **りくさんに**はなをあげます (Aan Riku geeft ze bloemen)
+- Ik stuur **(aan) mijn vriend** een brief = **ともだちに**てがみをおくります (Aan mijn vriend stuur ik een brief.
+- Hij krijgt bloemen **van Sen** = **せんさんに**はなをもらいます。(Van Sen krijgt hij bloemen)
+- Ik leer koken **van een docent** = **先生に**りょうりをならいます。(Van een docent leer ik koken)
+- Ik krijg een cadeautje **van mijn moeder** = **ははに**プレゼントをもらいます。(Van mijn moeder krijg ik een cadeautje)
+
+---
+### Geven en krijgen als gunst of op verzoek
+
+> [!NOTE] Constructie
+> **～てあげる・〜てさしあげる** → iets doen als **gunst** naar iemand anders
+> **gever** krijgt は・が
+> 
+> **～てくれる・〜てくださる** → iets doen als **gunst** naar mij/ons
+> **gever** krijgt は・が
+> 
+> **～てもらう・〜ていただく** → iemand iets **laten doen** voor mij/ons
+> **gever** krijgt に
+> 
+
+> [!warning] Let op
+> **～てあげる** kan minachtend klinken naar iemand met een hogere status
+
+Kato heeft me (als gunst) naar huis gebracht.
+かとうさん **が** うちまで送ってくれて。
+
+Kato heeft me (op mijn verzoek) naar huis gebracht.
+かとうさん **に** うちまで送ってもらった。
+
+> [!example] Extra voorbeeld
+> Denk aan het verschil tussen "Mijn vriend heeft mijn huiswerk voor mij gedaan" (als gunst, てくれる) vs "Ik heb mijn vriend mijn huiswerk laten doen" (op verzoek, てもらう).
+
 ---
 
 Zie ook [[Algemeen/101 Grammatica/Concepts/Verzoeken en advies#Gradaties van beleefdheid]] en [[Algemeen/101 Grammatica/Concepts/Geven en krijgen]]
