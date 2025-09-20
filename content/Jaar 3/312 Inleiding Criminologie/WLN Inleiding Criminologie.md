@@ -1,5 +1,5 @@
 ---
-{"publish":true,"created":"2025-09-15T17:05:36.021+02:00","modified":"2025-09-20T01:23:43.312+02:00","published":"2025-09-20T01:23:43.312+02:00","cssclasses":""}
+{"publish":true,"created":"2025-09-15T17:05:36.021+02:00","modified":"2025-09-20T01:29:23.610+02:00","published":"2025-09-20T01:29:23.610+02:00","cssclasses":""}
 ---
 
 ## 1 Criminaliteit en Criminologie
@@ -183,7 +183,7 @@ Deze enquêtes zijn grootschalige onderzoeken waarbij een groep burgers (de popu
 
 >Het is belangrijk, bij het bekijken van resultaten, dat je je bewust bent of het gaat om prevalentie of frequentie. Iemand kan namelijk meerdere keren slachtoffer zijn geweest. 
 
-![[Jaar 3/312 Inleiding Criminologie/00 Reference/Pasted image 20250915173937.png|Je ziet een halvering in 2017 t.o.v. 2005. ]]
+![[Jaar 3/312 Inleiding Criminologie/Resources/Pasted image 20250915173937.png|Je ziet een halvering in 2017 t.o.v. 2005. ]]
 
 Nadat je naar prevalentie en frequentie hebt gevraagd, kan je vragen naar de **doorloop in de strafrechtsketen:**
 
@@ -193,9 +193,9 @@ Nadat je naar prevalentie en frequentie hebt gevraagd, kan je vragen naar de **d
 4) Is de dader bekend?
 5) Is de dader veroordeeld/gestraft?
 
-![[Jaar 3/312 Inleiding Criminologie/00 Reference/Pasted image 20250915174555.png|Het beeld is dat van vermogensdelicten vaker aangifte wordt gedaan, in het bijzonder bij autodiefstal. Dit komt waarschijnlijk omdat het belangrijk is voor de verzekering.]]
+![[Jaar 3/312 Inleiding Criminologie/Resources/Pasted image 20250915174555.png|Het beeld is dat van vermogensdelicten vaker aangifte wordt gedaan, in het bijzonder bij autodiefstal. Dit komt waarschijnlijk omdat het belangrijk is voor de verzekering.]]
 
-![[Jaar 3/312 Inleiding Criminologie/00 Reference/Pasted image 20250915174645.png|Waarom doen mensen geen aangifte?]]
+![[Jaar 3/312 Inleiding Criminologie/Resources/Pasted image 20250915174645.png|Waarom doen mensen geen aangifte?]]
 
 #### 2.1.3 Daderenquêtes / Zelfrapportages
 **Zelfrapportage-enquêtes** zijn grootschalige onderzoeken waarbij een groep burgers (de populatie) op gestructureerde wijze gevraagd wordt naar...
@@ -275,7 +275,7 @@ Beschrijvend onderzoek naar de aard en omvang van criminaliteit laat zien dat in
 **1350-nu**
 In 2023 zijn ongeveer 125 mensen om het leven gebracht. Als je dat bekijkt per 100.000 mensen van de bevolking, zitten we bijna op de nullijn. 
 
-![[Jaar 3/312 Inleiding Criminologie/00 Reference/CleanShot 2025-09-16 at 12.41.10@2x.png]]
+![[Jaar 3/312 Inleiding Criminologie/Resources/NL.png]]
 
 Als je historisch kijkt (1350 t/m nu), dan is de kans om nu vermoord te worden t.o.v. de middeleeuwen 50 keer kleiner. We zijn steeds braver geworden. In de middeleeuwen was er nauwelijks een overheid/politie. 
 
@@ -318,7 +318,7 @@ In dit college:
 - Filtering in de strafrechtsketen
 
 ### 3.1 Het strafrechtelijke systeem
-![[Jaar 3/312 Inleiding Criminologie/00 Reference/CleanShot 2025-09-18 at 12.03.53@2x.png]]
+![[Jaar 3/312 Inleiding Criminologie/Resources/Strafrechtketen.png]]
 
 ```mermaid
 flowchart LR
